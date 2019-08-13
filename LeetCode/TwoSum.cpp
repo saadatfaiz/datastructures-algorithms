@@ -8,6 +8,7 @@ vector<int> twoSum(vector<int>& nums, int target) {
 
 int main() {
     cout << "hello world" << endl;
+    cout << "hi world" << endl;
 
     return 0;
 }
